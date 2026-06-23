@@ -1,0 +1,1 @@
+Na prática, o versionamento organiza o trabalho através de um fluxo inteligente de tarefas em equipe. Ele permite que múltiplos desenvolvedores criem ramificações (branches) para testar ideias isoladas sem estragar o código principal. O sistema gerencia as alterações de todos, avisa se houver conflitos no mesmo arquivo e junta tudo (merge) de forma segura.
