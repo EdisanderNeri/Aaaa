@@ -1,0 +1,1 @@
+O versionamento é um sistema que funciona como uma máquina do tempo para arquivos. Ele registra todas as alterações feitas em um projeto ao longo do tempo. Em vez de salvar cópias manuais como "projeto_final_v2.txt", o sistema grava o histórico completo de cada linha modificada, permitindo recuperar qualquer ponto do passado.
