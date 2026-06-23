@@ -1,0 +1,1 @@
+Utilizar o versionamento garante segurança, colaboração e controle total sobre o ciclo de vida de um projeto. Ele elimina o medo de perder dados, aumenta a produtividade dos times e serve como a base fundamental para a engenharia de software moderna e a automação de sistemas.
