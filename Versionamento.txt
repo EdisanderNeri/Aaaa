@@ -1,0 +1,1 @@
+Versionamento é o sistema que rastreia o histórico de alterações em arquivos ao longo do tempo. Ele permite que você salve versões de um projeto, recupere arquivos deletados e trabalhe em equipe sem apagar o código dos outros.
